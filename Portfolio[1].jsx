@@ -1,0 +1,1 @@
+(React component code would be pasted here — user can copy from ChatGPT canvas)
